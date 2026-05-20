@@ -1,0 +1,7 @@
+{
+    "gemini_api_key": "",
+    "backup_api_key": "",
+    "telegram_token": "",
+    "telegram_chat_id": "",
+    "telegram_schedule_time": "07:00"
+}
